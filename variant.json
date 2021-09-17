@@ -1,0 +1,11 @@
+{
+    "variant": 10,
+    "figures": [
+      "Square",
+      "Rectangle",
+      "Trapezoid"
+    ],
+    "finished_labs": {
+      "lab1": "lab_1"
+    }
+  }
