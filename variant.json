@@ -19,5 +19,12 @@
         "lab0.2:3": "lab_02"
     },
     "reports": [
+        "lab0.1",
+        "lab0.2",
+        "lab1",
+        "lab2",
+        "lab3",
+        "lab4",
+        "lab5"
     ]      
 }
